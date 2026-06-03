@@ -1,0 +1,14 @@
+{
+  "name": "devcats-reports",
+  "description": "Отчёты по команде из Jira (jira.demo.io): недельный командный отчёт и месячный отчёт по сотруднику.",
+  "owner": {
+    "name": "r-mobile",
+    "url": "https://github.com/r-mobile/claude_skill_team_report"
+  },
+  "plugins": [
+    {
+      "name": "devcats-reports",
+      "source": "./"
+    }
+  ]
+}
